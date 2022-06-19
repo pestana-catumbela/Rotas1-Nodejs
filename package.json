@@ -1,0 +1,21 @@
+{
+  "name": "rotas1",
+  "version": "1.0.0",
+  "description": "Rotas em arquivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "return"
+  },
+  "repository": {
+    "type": "git",
+    "url": "return"
+  },
+  "keywords": [
+    "return"
+  ],
+  "author": "devPPC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
